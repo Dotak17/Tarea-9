@@ -69,6 +69,13 @@ CAPITULO 23
 
 CAPITULO 24
 
+![](https://user-images.githubusercontent.com/84998005/132493947-b49d2e7c-8f72-4688-8a67-34bc1e8593c3.png)
+
+![](https://user-images.githubusercontent.com/84998005/132493937-7bd4db3e-a2e9-48f5-99bf-c331964a11ae.png)
+
+![](https://user-images.githubusercontent.com/84998005/132493932-1af78cb5-dc7a-40e5-bbf6-8712e3f1e905.png)
+
+![](https://user-images.githubusercontent.com/84998005/132493963-3d05e94f-4079-49a0-96e7-e60857b70643.png)
 
 ![](https://user-images.githubusercontent.com/84998013/132438255-06692ead-e1e4-4fa9-948b-ba817acbf4fb.png)
 
