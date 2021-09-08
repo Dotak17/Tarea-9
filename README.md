@@ -75,6 +75,12 @@ CAPITULO 24
 
 ![](https://user-images.githubusercontent.com/84998013/132438637-2e80f319-d7ed-4343-9d9f-5f2b71abad5f.png)
 
+![Ejercicio 24 1](https://user-images.githubusercontent.com/84397282/132462938-5bbbb104-83be-4df2-8b34-6416bf1addc0.jpg)
+![Ejercicio 24 2](https://user-images.githubusercontent.com/84397282/132462942-16324fd4-6deb-4d58-86e5-2ee5c1cc4728.jpg)
+![Ejercicio 24 3](https://user-images.githubusercontent.com/84397282/132462946-ead21928-411f-40cf-a2e1-069d1e0c1e29.jpg)
+![Ejercicio 24 4](https://user-images.githubusercontent.com/84397282/132462949-5edc859c-f6b6-4208-b0b8-025ed5382c58.jpg)
+![Ejercicio 24 5](https://user-images.githubusercontent.com/84397282/132462950-e9628dd7-9c52-4eb3-b2cf-261c1387fc25.jpg)
+![Ejercicio 24 6](https://user-images.githubusercontent.com/84397282/132462952-a152f836-aa9d-48c1-945c-326218f9ba52.jpg)
 
 - VIDEO
 
