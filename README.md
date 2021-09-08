@@ -84,9 +84,12 @@ CAPITULO 24
 
 - VIDEO
 
+- https://www.youtube.com/watch?v=UWDentTne7g
+
 
 - CONCLUSIONES
 
+- El analisis de un circuito "ac" puede llegar a una complejidad en el analisis de los metodos matematicos necesarios para resolver un ejercicio
 
 - BIBLIOGRAFIA
 
