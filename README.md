@@ -4,17 +4,21 @@
 
 - Comprender el concepto de sistemas trifasicos, su relacion con las fuentes de voltaje "ac" y su manera de generar y transmitir potencia electrica para comprender su aplicacion en aparatos que necesitan de una sola fase.
 
+- Estudiar toda la acción los transformadores sus diferentes tipos, la relación que existe entre corriente y voltaje y sus aplicaciones. 
+
 - OBJETIVOS ESPECIFICOS
 
 - Diferenciar entre sistemas trifasicos balanceados o desvalanceados, qué se puede analizar y que podemos deducir de cada uno de ellos
 
 - Identificar las ventajas economicas que traen los sistemas de potencia de tres fases a diferencia de sistemas de potencia de una fase
 
+- Identificar las diferencias y el correcto uso de transformadores. 
+-
 - MARCOTEORICO
 
 CAPITULO 23 )
 
-PARTE B
+
 
 ![](https://user-images.githubusercontent.com/84998013/132436458-0f82cdd9-b0d8-4e2b-bf7e-efd93d011832.png)
 
@@ -90,6 +94,10 @@ CAPITULO 24
 - CONCLUSIONES
 
 - El analisis de un circuito "ac" puede llegar a una complejidad en el analisis de los metodos matematicos necesarios para resolver un ejercicio
+
+- Con todos los aprendizajes adquiridos se pudo realizar los ejercicios planteados en los capítulos 23 y 24 del texto. 
+
+- Se puedo notar las diferencias entre los distintos tipos de transformadores y sus aplicaciones. 
 
 - BIBLIOGRAFIA
 
