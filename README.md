@@ -12,6 +12,13 @@
 
 - MARCOTEORICO
 
+CAPITULO 23 )
+
+PARTE B
+
+![](https://user-images.githubusercontent.com/84998013/132436458-0f82cdd9-b0d8-4e2b-bf7e-efd93d011832.png)
+
+![](https://user-images.githubusercontent.com/84998013/132436554-05b841de-6405-4bc4-b4c0-a8c4c931d43f.png)
 
 
 CAPITULO 24
