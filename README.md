@@ -93,14 +93,5 @@ CAPITULO 24
 
 - BIBLIOGRAFIA
 
-
-
-
-
-
-
-
-
-
-
-
+- Kasatkin, A. S., Nemtsov, M. V. (1983). Electrotejnika. Moscú: Energoatomizdat
+- Boylestad, R. (2011). Introducción al análisis de circuitos. México: Pearson Education    http://etm2021.com/sbiblioteca/Libros/ELECTRICIDAD%20Y%20MAQUINAS%20ELECTRICAS/INTRODUCCION%20AL%20ANALISIS%20DE%20CIRCUITOS%20-%20Boylestad.pdf
