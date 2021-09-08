@@ -18,7 +18,7 @@
 
 CAPITULO 23 )
 
-
+![](https://user-images.githubusercontent.com/84998005/132492583-0928d0fe-7593-45df-97aa-d5b3ffd08ef2.png)
 
 ![](https://user-images.githubusercontent.com/84998013/132436458-0f82cdd9-b0d8-4e2b-bf7e-efd93d011832.png)
 
