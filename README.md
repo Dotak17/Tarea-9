@@ -47,6 +47,26 @@ CAPITULO 23
 
 ![](https://user-images.githubusercontent.com/84998013/132438186-1c5bea58-206e-4524-984b-95a2613bfbb3.png)
 
+CAPITULO 24
+
+
+![](https://user-images.githubusercontent.com/84998013/132438255-06692ead-e1e4-4fa9-948b-ba817acbf4fb.png)
+
+![](https://user-images.githubusercontent.com/84998013/132438338-13f14e5e-1146-4e99-87e5-383f6668a5bc.png)
+
+![](https://user-images.githubusercontent.com/84998013/132438402-f4843ec8-7773-49dc-8c31-63beddd752f4.png)
+
+![](https://user-images.githubusercontent.com/84998013/132438433-2fd98f80-23d5-4749-bf9f-25b7a4eb65b1.png)
+
+![](https://user-images.githubusercontent.com/84998013/132438470-84143c4c-b6a8-4e1d-abc2-8a58c6c7d818.png)
+
+![](https://user-images.githubusercontent.com/84998013/132438505-a301b5f4-bdba-46bd-9436-a30cfd4b382e.png)
+
+
+![](https://user-images.githubusercontent.com/84998013/132438597-6cca6c88-04d1-462a-8397-59f8a99b8c64.png)
+
+![](https://user-images.githubusercontent.com/84998013/132438637-2e80f319-d7ed-4343-9d9f-5f2b71abad5f.png)
+
 
 - VIDEO
 
