@@ -35,6 +35,17 @@ CAPITULO 24
 
 - RESOLUCION DE PROBLEMAS
 
+CAPITULO 23
+
+![](https://user-images.githubusercontent.com/84998013/132437813-f72f2385-1c0d-4107-aec4-c5c7d5140652.png)
+
+![](https://user-images.githubusercontent.com/84998013/132437901-65499294-3c5b-4777-a308-e10a96e1ff13.png)
+
+![](https://user-images.githubusercontent.com/84998013/132438055-cad4c25c-516e-46c6-bc21-8aa426df7836.png)
+
+![](https://user-images.githubusercontent.com/84998013/132438096-6f995cdc-10c9-4e9f-89cc-e333ee38f50c.png)
+
+![](https://user-images.githubusercontent.com/84998013/132438186-1c5bea58-206e-4524-984b-95a2613bfbb3.png)
 
 
 - VIDEO
