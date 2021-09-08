@@ -49,6 +49,14 @@ CAPITULO 23
 ![5 Ejercicio cap 23](https://user-images.githubusercontent.com/84397282/132444611-ebc55a29-f002-46bd-aa03-c66a83d3edf5.jpg)
 ![6 Ejercicio cap 23](https://user-images.githubusercontent.com/84397282/132444617-30f1ac10-ca29-4c6a-be29-707a9bcea069.jpg)
 
+![](https://user-images.githubusercontent.com/84998005/132492898-563fcade-ae7a-4e99-8c28-c5f037ba2411.png)
+
+![](https://user-images.githubusercontent.com/84998005/132492888-a5e092cc-47ec-4770-b60d-e50ff59cf059.png)
+
+![](https://user-images.githubusercontent.com/84998005/132492877-d5fee2dc-6941-49c0-9f8b-79c5d3add3ef.png)
+
+![](https://user-images.githubusercontent.com/84998005/132492904-18c28032-9519-4c9a-ba31-8029d99cafc4.png)
+
 ![](https://user-images.githubusercontent.com/84998013/132437813-f72f2385-1c0d-4107-aec4-c5c7d5140652.png)
 
 ![](https://user-images.githubusercontent.com/84998013/132437901-65499294-3c5b-4777-a308-e10a96e1ff13.png)
